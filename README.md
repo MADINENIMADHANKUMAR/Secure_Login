@@ -16,7 +16,7 @@ A secure web application built using Node.js, Express.js, and MongoDB that provi
 - Express Session
 ## Installation
 ```bash
-git clone https://github.com/your-username/secure-login-system.git
+git clone https://github.com/your-username/Secure_Login.git
 cd secure-login-system
 npm install
 ```
